@@ -1,0 +1,28 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@1&display=swap');
+  .head{
+    color:white;
+    background:url("https://c4.wallpaperflare.com/wallpaper/66/264/16/dual-monitors-multiple-display-landscape-wallpaper-thumb.jpg")  no-repeat center fixed; 
+    background-size: cover;
+    
+  
+
+ }
+
+h1{
+  display:block;
+    padding: 20px 0;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.4);
+  }
+.info{
+display:block;
+  font-size: 35px;
+   padding: 10px;
+text-align: right;
+background-color: rgba(0,0,0,0.4);
+
+  
+}
